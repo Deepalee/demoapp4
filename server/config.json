@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb://djain:djain@ds237700.mlab.com:37700/mytasklist_dj",
+    "apiUrl": "http://localhost:3000",
+    "secret": "REPLACE THIS WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}
